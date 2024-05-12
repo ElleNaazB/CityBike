@@ -1,5 +1,5 @@
 # CitiBike Data Analysis:
-To view the visualization on tableau, please click <a href= "https://public.tableau.com/app/profile/elle.bee2014/viz/CitiBike_Challange_17155453916630/DataAnalysis">HERE</a> or on the link below:
+To view the visualization of CitiBiKe Data Alalysis from May 2023 to April 2024 on Tableau Public, please click <a href= "https://public.tableau.com/app/profile/elle.bee2014/viz/CitiBike_Challange_17155453916630/DataAnalysis">HERE</a> or on the link below:
 
 https://public.tableau.com/app/profile/elle.bee2014/viz/CitiBike_Challange_17155453916630/DataAnalysis
 
